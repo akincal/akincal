@@ -12,7 +12,7 @@
 
 <!-- SHORT BIO -->
 <img src="https://img.shields.io/badge/TOBB_ETU-Computer_Engineering-0d1117?style=for-the-badge&labelColor=1a6dff" />
-<img src="https://img.shields.io/badge/Ex--Intern-HAVELSAN-0d1117?style=for-the-badge&labelColor=00d4aa" />
+
 
 <br/><br/>
 
