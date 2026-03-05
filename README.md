@@ -31,7 +31,7 @@
 apiVersion: v1
 kind: Developer
 metadata:
-  name: "YOUR_NAME"
+  name: "Ali Hakan Kıncal"
   location: "Ankara, Turkey 🇹🇷"
 spec:
   education:
