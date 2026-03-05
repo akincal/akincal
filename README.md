@@ -122,54 +122,6 @@ spec:
 <!-- SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 &nbsp;GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=1a6dff&icon_color=00d4aa&text_color=c9d1d9&border_color=161b22&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&bg_color=0d1117&title_color=1a6dff&text_color=c9d1d9&border_color=161b22&hide_border=false&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&background=0d1117&ring=1a6dff&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=1a6dff&border=161b22" />
-</div>
-
-<br/>
-
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=1a6dff&line=00d4aa&point=ffffff&area_color=1a6dff&area=true&hide_border=true" />
-</div>
-
-<!-- SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 &nbsp;Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
-<!-- SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<!-- VISITOR COUNTER -->
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=1a6dff&label=PROFILE+VIEWS" />
-</div>
-
 <br/>
 
 <!-- FOOTER WAVE -->
